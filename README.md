@@ -1,5 +1,7 @@
 # I Saw It Somewhere
 
+<img width="2560" height="1440" alt="Screenshot 2026-10-28 at 11 37 34" src="https://github.com/user-attachments/assets/961ef13f-2614-4d32-9e67-ac5992be5938" />
+
 **Search the Internet you've already seen.**
 
 You remember the idea, not the title: an AI agent operating a browser, a cloud outage
