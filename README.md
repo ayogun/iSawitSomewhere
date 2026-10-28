@@ -235,6 +235,11 @@ npm ci
 cp .env.example .env.local
 ```
 
+The committed lockfile uses public npm archive URLs; installing these dependencies does
+not require a private package-registry token or your Elasticsearch API key. If `npm ci`
+returns an authentication error, review local/scoped npm registry settings. Do not commit
+private npm credentials or add them to CI to compensate for an old mirror-specific lockfile.
+
 Configure the local environment with your deployment's HTTPS Elasticsearch endpoint and an
 Elasticsearch API key (encoded value, not a Cloud organization-management key):
 
@@ -1164,6 +1169,7 @@ ranks as proof of production relevance, latency, privacy compliance or complete 
 | Symptom | What to check |
 | --- | --- |
 | Install/build/runtime problems on a different Node release | Use Node 24 from `.nvmrc`, then install from the lockfile with `npm ci` |
+| `npm ci` reports `E401` before the application starts | Use the current public-npm lockfile and review local registry/auth configuration; package installation does not use the Elastic Cloud API key |
 | `setup_required` or `configured: false` | Copy the public template, set both server-side Cloud values locally and restart |
 | `configured: true`, but indexing/search fails | Health is configuration-only; verify the endpoint, privileges and actual capabilities with consented preflight |
 | `invalid_configuration` | Use HTTPS without embedded credentials/query/fragment, a valid prefix, and the required `.elser-2-elastic` endpoint |
