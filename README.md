@@ -1079,6 +1079,11 @@ npm run build
 These commands use the existing project tooling; no live capability claim follows from
 a successful build or mocked UI test.
 
+The [GitHub Actions workflow](.github/workflows/ci.yml) runs dependency installation, lint,
+type checking, unit tests, the production build and the isolated Playwright suite on
+Node 24 for pushes and pull requests. It does not run the paid Cloud capability or
+retrieval-evaluation commands.
+
 Offline checks cover import/merge, query/evidence, consent, deletion races, honest degradation,
 SSRF/DNS policy, true pinned HTTP against controlled fixtures, decompression limits/timeouts,
 and browser rendering at 360/768/1440px. Browser tests force Cloud credentials empty; mocked
