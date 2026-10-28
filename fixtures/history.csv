@@ -1,0 +1,3 @@
+url,title,visited_at,visit_count,description,page_content
+https://github.com/browser-use/browser-use,Browser Use,2026-07-14T10:00:00Z,5,Open-source browser automation for AI agents.,Synthetic example: an AI agent controls a browser to navigate web pages and complete tasks.
+https://github.com/ollama/ollama,Ollama,2026-09-09T11:30:00Z,2,Run language models locally on a Mac.,Synthetic example: download a language model once and use local private inference on Apple Silicon.

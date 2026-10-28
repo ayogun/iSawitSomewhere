@@ -1,0 +1,205 @@
+[
+    {
+        "split": "tuning",
+        "query": "AI agent that controls a browser",
+        "relevant": [
+            "https://github.com/browser-use/browser-use"
+        ]
+    },
+    {
+        "split": "tuning",
+        "query": "GitHub browser AI thing I saw recently",
+        "relevant": [
+            "https://github.com/browser-use/browser-use"
+        ]
+    },
+    {
+        "split": "tuning",
+        "query": "open source language model runner on a Mac",
+        "relevant": [
+            "https://github.com/ollama/ollama",
+            "https://github.com/ml-explore/mlx-lm"
+        ]
+    },
+    {
+        "split": "tuning",
+        "query": "the Elastic engineer hybrid search article a few weeks ago",
+        "relevant": [
+            "https://www.elastic.co/search-labs/blog/hybrid-search-example"
+        ]
+    },
+    {
+        "split": "tuning",
+        "query": "Warsaw flat huge balcony",
+        "relevant": [
+            "https://www.otodom.pl/pl/oferta/synthetic-warsaw-balcony"
+        ]
+    },
+    {
+        "split": "tuning",
+        "query": "AWS outage explanation last year",
+        "relevant": [
+            "https://aws.amazon.com/message/12721/"
+        ]
+    },
+    {
+        "split": "tuning",
+        "query": "browser testing in Firefox Chromium WebKit",
+        "relevant": [
+            "https://github.com/microsoft/playwright"
+        ]
+    },
+    {
+        "split": "tuning",
+        "query": "stateful graph workflow for language model agents",
+        "relevant": [
+            "https://github.com/langchain-ai/langgraph"
+        ]
+    },
+    {
+        "split": "tuning",
+        "query": "semantic search matching meaning instead of exact words",
+        "relevant": [
+            "https://example.com/articles/synthetic-vector-search"
+        ]
+    },
+    {
+        "split": "tuning",
+        "query": "sourdough starter fermentation bread crust",
+        "relevant": [
+            "https://example.com/articles/synthetic-sourdough"
+        ]
+    },
+    {
+        "split": "tuning",
+        "query": "industrial carbide drill coolant settings",
+        "relevant": []
+    },
+    {
+        "split": "tuning",
+        "query": "medieval pottery kiln glaze ratios",
+        "relevant": []
+    },
+    {
+        "split": "holdout",
+        "query": "a program that clicks through websites by itself to finish tasks",
+        "relevant": [
+            "https://github.com/browser-use/browser-use"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "let a reasoning assistant operate web pages",
+        "relevant": [
+            "https://github.com/browser-use/browser-use"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "browser automation AI project on GitHub a few months ago",
+        "relevant": [
+            "https://github.com/browser-use/browser-use"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "Browser Use",
+        "relevant": [
+            "https://github.com/browser-use/browser-use"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "download a chatbot model and use it offline on my laptop",
+        "relevant": [
+            "https://github.com/ollama/ollama"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "local private inference command line API Mac",
+        "relevant": [
+            "https://github.com/ollama/ollama"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "fine tuning using Apple unified memory architecture",
+        "relevant": [
+            "https://github.com/ml-explore/mlx-lm"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "cloud DNS failure amplified by dependent service retries last year",
+        "relevant": [
+            "https://aws.amazon.com/message/12721/"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "incident review timeline recovery regional control plane",
+        "relevant": [
+            "https://aws.amazon.com/message/12721/"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "combining incompatible relevance score lists without adding them",
+        "relevant": [
+            "https://www.elastic.co/search-labs/blog/hybrid-search-example"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "reciprocal rank fusion sparse vectors relevance tuning",
+        "relevant": [
+            "https://www.elastic.co/search-labs/blog/hybrid-search-example"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "two bedroom apartment outdoor seating courtyard Warsaw recently",
+        "relevant": [
+            "https://www.otodom.pl/pl/oferta/synthetic-warsaw-balcony"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "bright Warsaw home big terrace table plants",
+        "relevant": [
+            "https://www.otodom.pl/pl/oferta/synthetic-warsaw-balcony"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "end to end scripted browser assertions",
+        "relevant": [
+            "https://github.com/microsoft/playwright"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "checkpoints graph transitions tool calls",
+        "relevant": [
+            "https://github.com/langchain-ai/langgraph"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "compact central Warsaw studio without outdoor space",
+        "relevant": [
+            "https://example.com/homes/synthetic-warsaw-studio"
+        ]
+    },
+    {
+        "split": "holdout",
+        "query": "classical violin bow repair workshop opening hours",
+        "relevant": []
+    },
+    {
+        "split": "holdout",
+        "query": "Victorian silver hallmark identification chart",
+        "relevant": []
+    }
+]

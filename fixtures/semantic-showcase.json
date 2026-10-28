@@ -1,0 +1,42 @@
+[
+    {
+        "url": "https://example.com/semantic-showcase/entry-01",
+        "title": "[Synthetic demo] Acoustic isolation for residential ceilings",
+        "visited_at": "2026-10-24T09:00:00Z",
+        "description": "A retrofit guide to reducing transmitted footfall in shared buildings.",
+        "page_content": "Original synthetic article. Impact vibration can travel through a concrete slab when occupants in an overhead dwelling walk on hard flooring. A bedroom retrofit combines mineral wool, resilient channels and a second layer of acoustic plasterboard. Separating rigid surfaces limits sound transmission more effectively than attaching thin foam directly to the slab. Sealing perimeter gaps also helps. The aim is a quieter sleeping area below a busy household without replacing the entire building structure. Compare airborne sound with structural impact before choosing materials.",
+        "query": "noisy upstairs neighbors"
+    },
+    {
+        "url": "https://example.com/semantic-showcase/entry-02",
+        "title": "[Synthetic demo] Restoring scorched stainless cookware",
+        "visited_at": "2026-10-23T10:00:00Z",
+        "description": "A gentle method for loosening carbonized residue.",
+        "page_content": "Original synthetic article. A charred saucepan can often be restored without aggressive scraping. Cover the affected surface with warm liquid and sodium bicarbonate, then simmer gently to loosen the carbonized residue. Allow the vessel to cool before lifting the softened deposits with a wooden utensil. A little diluted vinegar can help with discoloration on stainless steel. Rinse thoroughly and dry with a soft cloth. Avoid steel wool on delicate coatings, and follow the manufacturer's care instructions. Several gentle treatments are preferable to damaging the metal with a sharp blade.",
+        "query": "burnt pan cleaning"
+    },
+    {
+        "url": "https://example.com/semantic-showcase/entry-03",
+        "title": "[Synthetic demo] Recovering sign-in credentials",
+        "visited_at": "2026-10-22T11:00:00Z",
+        "description": "A secure reset procedure for a lost authentication secret.",
+        "page_content": "Original synthetic article. When a memorized passphrase is no longer available, start the recovery workflow on the service's official sign-in screen. A verified address receives a time-limited reset link. Follow it to choose a fresh authentication secret, then revoke unfamiliar sessions and retain unused recovery codes in a safe place. A reputable credential manager can generate and store a unique replacement. Never disclose a reset link or a verification code to someone offering unsolicited help. This fictional guide does not represent a real service.",
+        "query": "forgot my password"
+    },
+    {
+        "url": "https://example.com/semantic-showcase/entry-04",
+        "title": "[Synthetic demo] Reservoir irrigation for indoor greenery",
+        "visited_at": "2026-10-21T12:00:00Z",
+        "description": "Slow-release hydration during an extended absence.",
+        "page_content": "Original synthetic article. A cotton wick transfers moisture from a covered reservoir into potting soil by capillary action. Place one end beside the roots and submerge the other in the supply container. Choose cord thickness according to the pot's drainage and test the arrangement for several days before departure. Sensitive foliage benefits from indirect light and a stable room temperature. For a longer trip, a small drip system with a timer offers a more predictable supply. The setup should hydrate the containers gradually rather than saturate them all at once.",
+        "query": "water plants on vacation"
+    },
+    {
+        "url": "https://example.com/semantic-showcase/entry-05",
+        "title": "[Synthetic demo] Spam filtering and sender blocklists",
+        "visited_at": "2026-10-20T13:00:00Z",
+        "description": "A practical guide to sorting unsolicited correspondence.",
+        "page_content": "Original synthetic article. Repeated unsolicited messages can be diverted into a quarantine folder before reaching the main inbox. Enable the provider's spam filter, report suspicious senders and add persistent offenders to a blocklist. Rules can also screen correspondence with misleading subjects or unexpected attachments. Avoid replying to unfamiliar senders, since doing so may confirm that the mailbox is active. Genuine newsletters usually offer a verified unsubscribe route. Review the quarantine occasionally to recover legitimate correspondence caught by mistake.",
+        "query": "stop junk email"
+    }
+]

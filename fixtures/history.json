@@ -1,0 +1,86 @@
+[
+    {
+        "url": "https://github.com/browser-use/browser-use",
+        "title": "Browser Use",
+        "visited_at": "2026-07-14T10:00:00Z",
+        "visit_count": 5,
+        "description": "Open-source browser automation for AI agents.",
+        "page_content": "Synthetic example: Browser Use lets an AI agent control a web browser. The agent observes a website, clicks buttons, fills search inputs and navigates web pages to complete tasks. This is a Python open-source project on GitHub, not a browser extension or an image generator."
+    },
+    {
+        "url": "https://github.com/browser-use/browser-use",
+        "title": "Browser Use",
+        "visited_at": "2026-10-19T14:00:00Z",
+        "visit_count": 6
+    },
+    {
+        "url": "https://github.com/ollama/ollama",
+        "title": "Ollama",
+        "visited_at": "2026-09-09T11:30:00Z",
+        "description": "Run language models on your own computer.",
+        "page_content": "Synthetic example: Ollama runs large language models locally on a Mac. Download a model once and use it offline on Apple Silicon. It provides a command-line interface and local API for private inference without sending prompts to a hosted provider."
+    },
+    {
+        "url": "https://github.com/ml-explore/mlx-lm",
+        "title": "MLX LM",
+        "visited_at": "2026-08-17T09:00:00Z",
+        "description": "Efficient local language models on Apple Silicon.",
+        "page_content": "Synthetic example: MLX LM performs inference and fine tuning of language models on Apple Silicon. It uses the Mac unified memory architecture. This is an open-source Python package for local generative models."
+    },
+    {
+        "url": "https://aws.amazon.com/message/12721/",
+        "title": "Inside a regional cloud outage",
+        "visited_at": "2025-11-12T16:00:00Z",
+        "description": "A technical explanation of cascading failures during an AWS outage.",
+        "page_content": "Synthetic example: an engineering incident review explains how a DNS configuration error affected a regional control plane. Dependent services retried requests, amplifying the outage. The post describes the timeline, recovery actions and lessons for AWS reliability."
+    },
+    {
+        "url": "https://www.elastic.co/search-labs/blog/hybrid-search-example",
+        "title": "Finding the right balance in hybrid search",
+        "visited_at": "2026-10-06T15:00:00Z",
+        "description": "An Elastic engineer compares keyword and semantic retrieval.",
+        "page_content": "Synthetic example: an Elastic search engineer explains hybrid search using BM25 and semantic retrieval. Reciprocal rank fusion combines lists without adding incompatible raw scores. The article discusses Elasticsearch retrievers, evaluation, sparse vectors and relevance tuning."
+    },
+    {
+        "url": "https://www.otodom.pl/pl/oferta/synthetic-warsaw-balcony",
+        "title": "Warsaw apartment with a generous terrace",
+        "visited_at": "2026-10-18T18:00:00Z",
+        "description": "A bright two-bedroom flat in Warsaw with a huge balcony.",
+        "page_content": "Synthetic listing: an apartment in Warsaw has two bedrooms, natural light, an open kitchen and a huge balcony overlooking a courtyard. The terrace is large enough for a table and plants. This is an illustrative property, not a real apartment advertisement."
+    },
+    {
+        "url": "https://github.com/microsoft/playwright",
+        "title": "Playwright",
+        "visited_at": "2026-10-20T13:00:00Z",
+        "description": "Browser testing for web applications.",
+        "page_content": "Synthetic example: Playwright automates Chromium, Firefox and WebKit for end-to-end testing. Developers write assertions and test scripts. It is a browser automation framework, not itself a reasoning AI agent."
+    },
+    {
+        "url": "https://github.com/langchain-ai/langgraph",
+        "title": "LangGraph",
+        "visited_at": "2026-10-12T10:00:00Z",
+        "description": "Stateful workflows for language-model agents.",
+        "page_content": "Synthetic example: LangGraph coordinates long-running agents using state and graph transitions. It supports checkpoints and tool calls. This project is about orchestration rather than an agent that directly operates websites."
+    },
+    {
+        "url": "https://example.com/articles/synthetic-sourdough",
+        "title": "A patient sourdough loaf",
+        "visited_at": "2026-10-24T08:00:00Z",
+        "description": "A home-baking notebook.",
+        "page_content": "Synthetic example: feed a sourdough starter, mix flour and water, let the dough ferment and bake in a covered pot. This page is about bread, temperature and crust, not software or search."
+    },
+    {
+        "url": "https://example.com/homes/synthetic-warsaw-studio",
+        "title": "Compact studio in Warsaw",
+        "visited_at": "2026-10-22T17:00:00Z",
+        "description": "A small central studio without outdoor space.",
+        "page_content": "Synthetic listing: a compact studio in Warsaw has a kitchenette and a desk. There is no balcony or terrace. This illustrative property is different from the spacious apartment with outdoor seating."
+    },
+    {
+        "url": "https://example.com/articles/synthetic-vector-search",
+        "title": "Meaning beyond matching words",
+        "visited_at": "2026-09-28T12:00:00Z",
+        "description": "A guide to semantic document retrieval.",
+        "page_content": "Synthetic example: semantic search retrieves passages about the same idea even when the words differ. Embedding models represent concepts, while lexical retrieval matches indexed terms. Evaluation requires relevant judgments and difficult negative examples."
+    }
+]
